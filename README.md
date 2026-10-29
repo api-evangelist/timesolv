@@ -64,23 +64,86 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-TimeSolv is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
+TimeSolv provides cloud‑based time tracking, billing, and practice management software for law firms and professional services. Its platform automates billable hour capture, invoicing, trust accounting, client portal, and integrates with QuickBooks, Xero, NetDocuments, Dropbox, LawPay and AI tools. TimeSolv aims to improve efficiency, compliance, and revenue visibility for legal practices.
 
-**Areas:** Company
+**Areas:** Company · LegalTech · TimeTracking · Billing · SaaS · PracticeManagement
 
 ## TimeSolv on APIs.io
 
 Everything profiled for TimeSolv is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/timesolv/](https://apis.io/providers/timesolv/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Timesolv Domain Security](https://apis.io/security/timesolv/timesolv-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Timesolv Plans Pricing](https://apis.io/plans/timesolv/timesolv-plans-pricing/)
 
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://timesolv.com/)
+- [Documentation](https://help.timesolv.com/)
+- [Getting started](https://help.timesolv.com/how-to-setup-cabinet-workspace-in-netdocuments)
+- [Pricing](https://www.timesolv.com/pricing/)
+- [Changelog](https://help.timesolv.com/release-notes)
+- [Blog](https://www.timesolv.com/resources/blog/)
+- [Security](https://help.timesolv.com/security)
+- [Terms of service](https://www.timesolv.com/terms-and-conditions/)
+- [Privacy policy](https://www.timesolv.com/privacy-statement/)
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/timesolv/](https://apis.io/providers/timesolv/).
+**Kin Score 26.3** — thin · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 44.6 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 26.3 |
+| Developer ergonomics | 33.3 |
+| Access clarity | 60.0 |
+
+**Agent readiness 6.0** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 13.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/timesolv/](https://apis.io/providers/timesolv/).
 
 ## How this profile is made
 
